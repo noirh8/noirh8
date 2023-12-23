@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 Regular Student
----------------https://github.com/noirh8/noirh8/blob/main/README.md
+---------------
 
 I've enter university since 2022 and now I'm studying Computer Engineering
 
@@ -33,8 +33,7 @@ I've enter university since 2022 and now I'm studying Computer Engineering
 <a href="https://github.com/noirh8" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noirh8&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div align="center">
-  &copy; 2023 Pham Dinh Bao Hoang
-  </h3>
+  &copy; 2023 Pham Dinh Bao Hoang </br>
   <img src="./assets/Divider.gif">
-  <img src="./assets/Mario_Gameplay.gif">
+  <img src="./assets/bmo.gif">
 </div>
